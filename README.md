@@ -15,8 +15,8 @@
 ## About Me
 
 - 🎓 Double major in **Data Science** and **Mathematics–Computer Science** at UC San Diego
-- 🔍 Interested in **Data Science**, **Machine Learning**, **Data Engineering**, and turning messy real-world data into decisions
-- 📬 Open to internship/full-time opportunities in related fields
+- 🔍 Interested in **Data Science**, **Machine Learning**, **Data Engineering**, and **Software Engineering**.
+- 📬 Open to internship opportunities in related fields
 ---
 
 ## 🛠️ Tech Stack
