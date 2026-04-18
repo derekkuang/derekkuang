@@ -2,7 +2,7 @@
 
 <p align="center">
   Data Science @ UC San Diego &nbsp;|&nbsp; 
-  Data Science & Machine Learning & AI
+  Data Science & AI/Machine Learning
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## About Me
 
 - 🎓 Double major in **Data Science** and **Mathematics–Computer Science** at UC San Diego
-- 🔍 Interested in **Data Science**, **Machine Learning**, **Data Engineering**, and **Software Engineering**.
+- 🔍 Interested in **Data Science**, **AI/Machine Learning**, **Data Engineering**, and **Software Engineering**.
 - 📬 Open to internship opportunities in related fields
 ---
 
