@@ -16,7 +16,7 @@
 
 - 🎓 Double major in **Data Science** and **Mathematics–Computer Science** at UC San Diego
 - 🔍 Interested in **Data Science**, **AI/Machine Learning**, **Data Engineering**, and **Software Engineering**.
-- 📬 Open to internship opportunities in related fields
+- 📬 Open to project and internship opportunities in related fields
 ---
 
 ## 🛠️ Tech Stack
