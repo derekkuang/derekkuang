@@ -54,8 +54,30 @@
 ---
 ## 🚀 Selected Projects
 
-| Project | Description | Demo |
-|---|---|---|
-| **WallStreetBets Sentiment & Market Analysis** | Predicted extreme next-day stock moves from Reddit sentiment using NLP + logistic regression; 0.80 ROC-AUC | [🔗 Live](https://derekkuang.github.io/wallstreetbets_sentiment_analysis/) |
-| **Vitals Unveiled: Surgical Risk Dashboard** | Interactive surgical risk scoring over 557K+ records; Top 5% Best Project (180 teams) | [🔗 Live](https://chewycrunch.github.io/final-proj-dsc106/) |
-| **Major Power Outage Analysis** | Identified regional outage drivers; boosted classifier accuracy from 60% → 90% with Random Forest | [🔗 Live](https://chewycrunch.github.io/blackout-breakdown/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 WallStreetBets Sentiment & Market Analysis</h3>
+      <p>Predicted extreme next-day stock moves from Reddit sentiment using NLP + logistic regression on a 16.6K-row dataset across 78 tickers.</p>
+      <p><strong>0.80 ROC-AUC</strong> on chronological test split</p>
+      <a href="https://derekkuang.github.io/wallstreetbets_sentiment_analysis/">🔗 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏥 Vitals Unveiled: Surgical Risk Dashboard</h3>
+      <p>Interactive cohort dashboards over 557K+ medical records from 6,388 surgeries, with a composite surgical risk score surfacing high-risk patients.</p>
+      <p><strong> Top 5% Best Project</strong> out of 180 teams</p>
+      <a href="https://chewycrunch.github.io/final-proj-dsc106/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Major Power Outage Analysis</h3>
+      <p>Identified regional and infrastructure drivers of outage severity through EDA and feature engineering, then built and tuned a Random Forest classifier.</p>
+      <p><strong>60% → 90% accuracy</strong> after tuning</p>
+      <a href="https://chewycrunch.github.io/blackout-breakdown/">🔗 Live Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- placeholder for future project -->
+    </td>
+  </tr>
+</table>
