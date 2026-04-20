@@ -50,3 +50,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+## 🚀 Selected Projects
+
+| Project | Description | Demo |
+|---|---|---|
+| **WallStreetBets Sentiment & Market Analysis** | Predicted extreme next-day stock moves from Reddit sentiment using NLP + logistic regression; 0.80 ROC-AUC | [🔗 Live](https://derekkuang.github.io/wallstreetbets_sentiment_analysis/) |
+| **Vitals Unveiled: Surgical Risk Dashboard** | Interactive surgical risk scoring over 557K+ records; Top 5% Best Project (180 teams) | [🔗 Live](https://chewycrunch.github.io/final-proj-dsc106/) |
+| **Major Power Outage Analysis** | Identified regional outage drivers; boosted classifier accuracy from 60% → 90% with Random Forest | [🔗 Live](https://chewycrunch.github.io/blackout-breakdown/) |
